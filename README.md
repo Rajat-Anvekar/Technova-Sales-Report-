@@ -45,7 +45,7 @@ This project presents an interactive Sales Analysis Dashboard developed using Mi
 
 ## 🖼️ Dashboard Preview
 
-![Technova Sales Dashboard](Technova Sales Dashboard.png)
+![Technova Sales Dashboard](Technova_Sales_Dashboard.png)
 
 ## 🔍 Key Insights
 
